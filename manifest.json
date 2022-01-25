@@ -1,0 +1,12 @@
+{
+    "name": "Auto Group",
+    "author": "Cem Asma",
+    "description": "Create tab groups automatically.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    
+    },
+    "permissions": ["tabs", "tabGroups"]
+  }
